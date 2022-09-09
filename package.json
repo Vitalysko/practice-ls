@@ -1,0 +1,11 @@
+{
+  "name": "node_js-test",
+  "private": true,
+  "scripts": {
+    "serve-cli": "live-server",
+    "serve-node":"node server.js"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}

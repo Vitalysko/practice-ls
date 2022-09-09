@@ -1,0 +1,8 @@
+#project
+
+node_modules/
+
+#fs
+.DS_Store
+.vscode
+.idea
